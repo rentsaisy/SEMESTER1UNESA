@@ -1,0 +1,93 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.1.1">
+  <diagram name="Page-1" id="buAX4HuTh-hlzIKe0Qgs">
+    <mxGraphModel dx="1111" dy="525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="brKpYdPs4QSa0YubqXwj-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="375" y="40" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="brKpYdPs4QSa0YubqXwj-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1.167;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="brKpYdPs4QSa0YubqXwj-3" target="brKpYdPs4QSa0YubqXwj-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425" y="90" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="brKpYdPs4QSa0YubqXwj-3" value="&lt;h4&gt;MULAI&lt;/h4&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="395" y="45" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="brKpYdPs4QSa0YubqXwj-4" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="370" y="730" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="brKpYdPs4QSa0YubqXwj-5" value="&lt;h4&gt;SELESAI&lt;/h4&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="390" y="735" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="brKpYdPs4QSa0YubqXwj-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="brKpYdPs4QSa0YubqXwj-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425.14814814814815" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="brKpYdPs4QSa0YubqXwj-7" value="" style="shape=internalStorage;whiteSpace=wrap;html=1;dx=15;dy=15;rounded=1;arcSize=0;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="335" y="120" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="brKpYdPs4QSa0YubqXwj-8" value="float Luas, alas, tinggi" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="375" y="140" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="brKpYdPs4QSa0YubqXwj-9" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="330" y="240" width="185" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="brKpYdPs4QSa0YubqXwj-10" value="masukkan nilai alas" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="362.5" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="brKpYdPs4QSa0YubqXwj-11" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="330" y="360" width="185" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="brKpYdPs4QSa0YubqXwj-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="brKpYdPs4QSa0YubqXwj-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="423" y="440" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="423" y="480" />
+              <mxPoint x="423" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="brKpYdPs4QSa0YubqXwj-13" value="masukkan nilai tinggi" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="362.5" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="brKpYdPs4QSa0YubqXwj-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="425.14814814814815" y="360" as="targetPoint" />
+            <mxPoint x="425" y="320" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="brKpYdPs4QSa0YubqXwj-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="320" y="480" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="brKpYdPs4QSa0YubqXwj-16" value="Hitung Luas Segitiga&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Luas = (alas * tinggi) / 2&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="290" y="480" width="265" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="brKpYdPs4QSa0YubqXwj-17" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="327.5" y="600" width="185" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="brKpYdPs4QSa0YubqXwj-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="680" as="sourcePoint" />
+            <mxPoint x="420" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="brKpYdPs4QSa0YubqXwj-19" value="menghasilkan nilai Luas Segitiga" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="350" y="610" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="brKpYdPs4QSa0YubqXwj-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.489;exitY=1.016;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="419.795" y="561.28" as="sourcePoint" />
+            <mxPoint x="420.21" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420.21" y="600" />
+              <mxPoint x="420.21" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
